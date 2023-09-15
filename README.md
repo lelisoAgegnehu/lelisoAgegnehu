@@ -1,4 +1,5 @@
-[![MasterHead]([91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif))
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
+
 <h1 align="center">Hi 👋, I'm leliso</h1>
 <h3 align="center">A passionate full stack web developer from Ethiopia</h3>
 
@@ -7,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelisoagegnehu&label=Profile%20views&color=0e75b6&style=flat" alt="lelisoagegnehu" /> </p>
 
-- 💬 Ask me about **Remix, Next, MERN,and Node**
+- 💬 Ask me about **Remix, Next, MERN, and Node**
 
 - 📫 How to reach me **lelisoagegnehu491@gmail.com**
 
-- ⚡ Fun fact **I am funy**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
